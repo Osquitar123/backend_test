@@ -10,3 +10,5 @@ nation varchar(45),
 team varchar(45),
 primary key(id)
 );
+
+SELECT * FROM players;
